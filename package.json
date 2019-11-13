@@ -1,0 +1,16 @@
+{
+  "name": "todos-ts-test",
+  "version": "1.0.0",
+  "keywords": [],
+  "main": "src/index",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6"
+  },
+  "devDependencies": {
+    "@types/react": "^16.8.6",
+    "@types/react-dom": "^16.8.2",
+    "typescript": "3.6.4"
+  },
+  "description": "Todos example of Rematch - a Redux framework."
+}
